@@ -1,2 +1,8 @@
 # Allum1
-Petit jeu sur terminal, joueur contre ordinateur imbattable.
+
+Pour lancer le jeu :
+
+./Allum1 
+
+Pour rendre l'ordinateur imbattable :
+  conversion binaire + gestion des cas spéciaux.
